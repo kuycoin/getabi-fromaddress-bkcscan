@@ -6,4 +6,4 @@ Usage
 2. return data at folder abi
 
 
-Example : python getaby.py 0x2009A60434dc8c8f772c9969d64868bDc2bF17B2
+Example : python getabi.py 0x2009A60434dc8c8f772c9969d64868bDc2bF17B2
